@@ -1,0 +1,142 @@
+[
+  {
+    "rank": 1,
+    "cnt": 5,
+    "tt": "The Great Gatsby",
+    "au": "F. Scott Fitzgerald",
+    "yr": "1990"
+  },
+  {
+    "rank": 2,
+    "cnt": 5,
+    "tt": "The Grapes of Wrath",
+    "au": "John Steinbeck",
+    "yr": "1972"
+  },
+  {
+    "rank": 3,
+    "cnt": 5,
+    "tt": "The Catcher in the Rye",
+    "au": "J.D. Salinger",
+    "yr": "1993"
+  },
+  {
+    "rank": 4,
+    "cnt": 4,
+    "tt": "Invisible Man",
+    "au": "Ralph Ellison",
+    "yr": "1988"
+  },
+  {
+    "rank": 5,
+    "cnt": 4,
+    "tt": "The Sound and the Fury",
+    "au": "William Faulkner",
+    "yr": "1987"
+  },
+  {
+    "rank": 6,
+    "cnt": 4,
+    "tt": "The Sun Also Rises",
+    "au": "",
+    "yr": "1988"
+  },
+  {
+    "rank": 7,
+    "cnt": 4,
+    "tt": "Things Fall Apart",
+    "au": "Chinua Achebe",
+    "yr": "1996"
+  },
+  {
+    "rank": 8,
+    "cnt": 4,
+    "tt": "Lolita",
+    "au": "Vladimir Vladimirovich Nabokov",
+    "yr": "1983"
+  },
+  {
+    "rank": 9,
+    "cnt": 4,
+    "tt": "A Passage to India",
+    "au": "E. M. Forster",
+    "yr": "1984"
+  },
+  {
+    "rank": 10,
+    "cnt": 4,
+    "tt": "1984",
+    "au": "George Orwell",
+    "yr": "1977"
+  },
+  {
+    "rank": 11,
+    "cnt": 4,
+    "tt": "Beloved",
+    "au": "Toni Morrison",
+    "yr": "1987"
+  },
+  {
+    "rank": 12,
+    "cnt": 4,
+    "tt": "Native Son",
+    "au": "Richard T. Wright",
+    "yr": "1940"
+  },
+  {
+    "rank": 13,
+    "cnt": 4,
+    "tt": "Catch-22",
+    "au": "Joseph Heller",
+    "yr": ""
+  },
+  {
+    "rank": 14,
+    "cnt": 4,
+    "tt": "Go Tell it on the Mountain",
+    "au": "James Baldwin",
+    "yr": "1954"
+  },
+  {
+    "rank": 15,
+    "cnt": 4,
+    "tt": "On the Road",
+    "au": "Jack Kerouac",
+    "yr": "1991"
+  },
+  {
+    "rank": 16,
+    "cnt": 3,
+    "tt": "ULYSSES",
+    "au": "James Joyce",
+    "yr": "1961"
+  },
+  {
+    "rank": 17,
+    "cnt": 3,
+    "tt": "Don Quixote",
+    "au": "Miguel de Cervantes",
+    "yr": "1982"
+  },
+  {
+    "rank": 18,
+    "cnt": 3,
+    "tt": "To the Lighthouse",
+    "au": "Virginia Woolf",
+    "yr": "1982"
+  },
+  {
+    "rank": 19,
+    "cnt": 3,
+    "tt": "Madame Bovary",
+    "au": "Gustave Flaubert",
+    "yr": "1998"
+  },
+  {
+    "rank": 20,
+    "cnt": 3,
+    "tt": "An American Tragedy",
+    "au": "Theodore Dreiser",
+    "yr": "2000"
+  }
+]
