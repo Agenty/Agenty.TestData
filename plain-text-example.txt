@@ -1,7 +1,0 @@
-﻿Agenty
-
-Agenty is a SaaS platform with easy-to-use automated data extraction agents for professionals & businesses that enables business to convert the unstructured web data into structured spreadsheet and machine-readable data with no coding required. 
-
-The most-advanced point and click interface transforms websites into data with a few simple clicks, enabling anyone to get the data they need even behind a login. Our highly efficient and scalable platform allows customers to process 1,000s of URLs concurrently or on a schedule and gain access to millions of rows of data that they use for hundreds of different use cases. 
-Signup for 14 days free trail – 
-https://www.agenty.com
