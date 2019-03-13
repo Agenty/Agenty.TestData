@@ -1,0 +1,22 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+<meta charset=utf-8>
+<title>Example HTML with Article Microdata</title>
+</head>
+<body>
+<div itemscope itemtype="http://schema.org/Article">
+<span itemprop="name">Features of the Agenty Web Scraping Tool</span>
+by <span itemprop="author">Vikash Rathee</span>
+
+<h3 itemprop="description">
+A most wonderful article written with Microdata has received 7 likes in facebook and received 3 google plus.
+</h3>
+
+<div itemprop="articleBody">
+The is full body of the <strong>article</strong> and has <br/> some inner html as well, for example: <p>This is another paragraph</p>
+
+</div>
+</div>
+</body>
+</html>
