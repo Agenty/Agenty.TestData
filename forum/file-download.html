@@ -3,6 +3,12 @@
 <title>Download File on Click</title>
 <body>
     <h1>Download File on Click</h1>
-	<a class="download-btn" href="https://agenty.github.io/Agenty.TestData/textract/pdf-example.pdf" download>Click Here to download</a>	
+	<a class="download-btn" onclick="downloadFunction()">Click Here to download</a>	
+<script>
+// On click, execute downloadFunction
+function downloadFunction() {
+  window.open("https://agenty.github.io/Agenty.TestData/textract/pdf-example.pdf", '_blank', '');
+}
+</script>
 </body>
 </html>
