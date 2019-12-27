@@ -1,0 +1,20 @@
+{
+  "total" : 2,
+  "type" : "books",
+  "rows" : [
+	  {
+		"product rank": 1,
+		"cnt": 5,
+		"tt": "The Great Gatsby",
+		"au": "F. Scott Fitzgerald",
+		"yr": "1990"
+	  },
+	  {
+		"product rank": 2,
+		"cnt": 5,
+		"tt": "The Grapes of Wrath",
+		"au": "John Steinbeck",
+		"yr": "1972"
+	  }
+	]
+}

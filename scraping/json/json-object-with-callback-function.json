@@ -1,0 +1,19 @@
+callBack({
+  "total" : 2,
+  "type" : "books",
+  "rows" : [
+  {
+    "rank": 1,
+    "cnt": 5,
+    "tt": "The Great Gatsby",
+    "au": "F. Scott Fitzgerald",
+    "yr": "1990"
+  },
+  {
+    "rank": 2,
+    "cnt": 5,
+    "tt": "The Grapes of Wrath",
+    "au": "John Steinbeck",
+    "yr": "1972"
+  }
+]})
