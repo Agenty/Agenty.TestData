@@ -1,0 +1,94 @@
+{
+  "filters": {
+    "yr": ""
+  },
+  "all_filters": {
+    "yr": ""
+  },
+  "summary": {
+    "total_vehicles": 4,
+    "ag": false
+  },
+  "results": [
+    {
+      "vehicle_id": 2788352,
+      "finance": [
+        {
+          "finance_id": "102331012"
+        },
+        {
+          "finance_id": "102331013"
+        },
+        {
+          "finance_id": "102331014"
+        },
+        {
+          "finance_id": "102331015"
+        },
+        {
+          "finance_id": "102331016"
+        }
+      ]
+    },
+    {
+      "vehicle_id": 2634821,
+      "finance": [
+        {
+          "finance_id": "96349878"
+        },
+        {
+          "finance_id": "96349879"
+        },
+        {
+          "finance_id": "96349880"
+        },
+        {
+          "finance_id": "96349881"
+        },
+        {
+          "finance_id": "96349882"
+        }
+      ]
+    },
+    {
+      "vehicle_id": 2669228,
+      "finance": [
+        {
+          "finance_id": "97980961"
+        },
+        {
+          "finance_id": "97980962"
+        },
+        {
+          "finance_id": "97980963"
+        },
+        {
+          "finance_id": "97980964"
+        },
+        {
+          "finance_id": "97980965"
+        }
+      ]
+    },
+    {
+      "vehicle_id": 2187194,
+      "finance": [
+        {
+          "finance_id": "95516992"
+        },
+        {
+          "finance_id": "95516993"
+        },
+        {
+          "finance_id": "95516994"
+        },
+        {
+          "finance_id": "95516995"
+        },
+        {
+          "finance_id": "95516996"
+        }
+      ]
+    }
+  ]
+}
