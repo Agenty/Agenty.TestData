@@ -1,0 +1,37 @@
+[
+  {
+    "rank": 1,
+    "cnt": 5,
+    "tt": "The Great Gatsby",
+    "au": "F. Scott Fitzgerald",
+    "yr": "1990"
+  },
+  {
+    "rank": null,
+    "cnt": null,
+    "tt": null,
+    "au": null,
+    "yr": null
+  },
+  {
+    "rank": 3,
+    "cnt": 5,
+    "tt": "The Catcher in the Rye",
+    "au": "J.D. Salinger",
+    "yr": "1993"
+  },
+  {
+    "rank": "",
+    "cnt": "",
+    "tt": "",
+    "au": "",
+    "yr": ""
+  },
+  {
+    "rank": 5,
+    "cnt": 4,
+    "tt": "The Sound and the Fury",
+    "au": "William Faulkner",
+    "yr": "1987"
+  }
+]
